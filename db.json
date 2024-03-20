@@ -1,0 +1,84 @@
+{
+  "video": [
+    {
+      "id": "1",
+      "caption": "Kurchi Madathapetti (Tamil) Video Song",
+      "imageURL": "https://i.ytimg.com/vi/qSc_sjKBdX0/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/qSc_sjKBdX0"
+    },
+    {
+      "id": "3",
+      "caption": "  Vaa Vaathi  Video Song",
+      "imageURL": "https://m.timesofindia.com/photo/95457038/size-158735/95457038.jpg",
+      "embedLink": "https://www.youtube.com/embed/592mNGkpYig"
+    },
+    {
+      "id": "4",
+      "caption": "Yaan - Aathangara Orathil Video",
+      "imageURL": "https://i.ytimg.com/vi/D5qSWz8Ecng/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/-cUSV8MCOLY"
+    },
+    {
+      "id": "5",
+      "caption": "Fake Love",
+      "imageURL": "https://i.ytimg.com/vi/86NhV8uWgVU/sddefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/7C2z4GqqS5E"
+    },
+    {
+      "id": "6",
+      "caption": "Star Boy",
+      "imageURL": "https://images.genius.com/7aa3bebecdfc0a7f9140c479bcb52182.1000x1000x1.png",
+      "embedLink": "https://www.youtube.com/embed/34Na4j8AVgA"
+    },
+    {
+      "id": "7",
+      "caption": "Popular",
+      "imageURL": "https://pbs.twimg.com/media/FxyWxM0XgAE-Y0F?format=jpg&name=medium",
+      "embedLink": "https://www.youtube.com/embed/vt0i6nuqNEo"
+    },
+    {
+      "id": "8",
+      "caption": "HIGHEST IN THE ROOM",
+      "imageURL": "https://i1.sndcdn.com/artworks-xnMdsbSaIxHJmJEv-5NSxwg-t500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/tfSS1e3kYeo"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Fake Love",
+      "url": "https://www.youtube.com/embed/7C2z4GqqS5E",
+      "timestamp": "16/03/2024, 15:10:09",
+      "id": 12
+    },
+    {
+      "caption": "Fake Love",
+      "url": "https://www.youtube.com/embed/7C2z4GqqS5E",
+      "timestamp": "19/03/2024, 16:12:39",
+      "id": 13
+    }
+  ],
+  "category": [
+    {
+      "category": "Tamil songs",
+      "allVideo": [
+        {
+          "id": "3",
+          "caption": "  Vaa Vaathi  Video Song",
+          "imageURL": "https://m.timesofindia.com/photo/95457038/size-158735/95457038.jpg",
+          "embedLink": "https://www.youtube.com/embed/592mNGkpYig"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "English Songs",
+      "allVideo": [],
+      "id": 2
+    },
+    {
+      "category": "Malayalam",
+      "allVideo": [],
+      "id": 3
+    }
+  ]
+}
